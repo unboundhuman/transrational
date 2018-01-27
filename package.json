@@ -1,0 +1,11 @@
+{
+  "name": "transrational",
+  "version": "1.0.0",
+  "description": "the transrational website",
+  "main": "index.js",
+  "repository": "https://github.com/unboundhuman/transrational",
+  "author": "Unbound Human",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
